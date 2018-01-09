@@ -1,0 +1,17 @@
+Google Machine Language is apart of Good Cloud Platform. It offers the following services.
+    
+    
+Translation API 
+Simple to integrate, automatically detects 100+ different languages from Afrikaans to Zulu with High-quality translations. Example of usage, general application internalization, dynamic translation of customer feedback comments. This feature would allow customers to provide feedback in their native language.
+        
+Cloud Vision API
+Enables devs to understand the content in an image like Faces, emotions, detects entities like furniture, reads and extracts text( OCR ), detect inappropriate content.
+    
+Speech API
+Mostly voice-enabled chat, voice-controlled game, speech recognition, e.g., Google and is used in things like home automation.
+    
+Natural Language API
+Used for sentiment analysis and entity recognition in a piece of text. 
+
+The demo provided a powerful example of these API. A customer tweeted their "like" of a particular garment with a picture attached. The demo used Sentiment analysis to determine how the customer felt about the clothing,  use Vision API to search their product catalog for a similar item and then responded to the tweet with a purchase suggestion.
+    
